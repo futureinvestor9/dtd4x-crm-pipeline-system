@@ -16,7 +16,7 @@ I built this system because leads and past contacts were going cold due to incon
 - No feedback loop to improve scripts and outreach over time
 
 ---
-![DTD4X Process Map](process_map.png)
+![DTD4X Process Map](dtd4x_process_map.png)
 ## System Architecture
 
 
